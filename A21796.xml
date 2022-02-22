@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene the Queenes most excellent Maiestie, finding the great misusage in the execution of sundry of her Highnesse grants made to diuer persons, touching certaine penall statutes ... touching the obtaining and recovery of lands and tenements concealed ...</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1579</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21796</idno>
+            <idno type="STC">STC 8117</idno>
+            <idno type="STC">ESTC S3739</idno>
+            <idno type="EEBO-CITATION">33150880</idno>
+            <idno type="OCLC">ocm 33150880</idno>
+            <idno type="VID">28798</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21796)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28798)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1874:83)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene the Queenes most excellent Maiestie, finding the great misusage in the execution of sundry of her Highnesse grants made to diuer persons, touching certaine penall statutes ... touching the obtaining and recovery of lands and tenements concealed ...</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>By Christopher Barker, Printer to the Queenes most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1579]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Revoking commissions to inquire into concealments.</note>
+                  <note>Line one of text ends "execution".</note>
+                  <note>STC (2nd ed.) suggests actual date of publication is 1618.</note>
+                  <note>"Giuen at our Mannor of Greenwich the xv. of December, the two and twentieth yeere of our Reigne. Anno 1579."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church property --  England.</term>
+               <term>Great Britain --  History --  Elizabeth, 1558-1603.</term>
+               <term>Broadsides --  London (England) --  16th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:28798:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <head>
+               <g ref="char:leaf">❧</g> By the Queene.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Queenes moſt excellent Maieſtie, finding the great miſuſage in the execution of ſundry her Highneſſe grants made to diuers perſons, touching certaine penall Statutes, made &amp; ſet forth for the common benefit and vtilitie of her people, and touching the obtaining and recouery of Lands and Tenements concealed, &amp; of ſundry bands, forfeitures, and other things pretended to be vniuſtly withholden and concealed from her Highneſſe and her Crowne: By pretence whereof, ſhe perceiueth a great multitude of her louing Subiects, contrary to the intention of her Maieſties ſaid grants, in many caſes (though not offending) to haue bene greatly vexed and moleſted, and the Lawes not thereby any thing the better exe<g ref="char:EOLhyphen"/>cuted, but in ſome parts rather impaired, nor any ſuch profit recouered, or obtained to her Highnes vſe vpon ſuch executions (&amp; contealements, as was pretended: moſt gratiouſly minding the common quiet and profit of her louing Subiects, and willing to remoue all occaſions of ſuch griefs to her people, as things whereof ſhee alwayes hath had, and yet ſtill hath vtter miſliking: Expreſly willeth and com<g ref="char:EOLhyphen"/>mandeth that the execution of all ſuch ſpeciall grants &amp; Commiſſions made to particular perſons tou<g ref="char:EOLhyphen"/>ching the premiſſes, and all Commiſſions not being returned into any her Maieſties courts of Record made vpon, or by vertue of any ſuch grants, ſhall from henceforth ceaſe. And that no new Commiſſi<g ref="char:EOLhyphen"/>ons vpon any the grants aforeſaid, do from henceforth paſſe any her Maieſties Seales, nor any Pro<g ref="char:EOLhyphen"/>ces or Writ to be awarded, nor information from hencefoorth receiued, vpon or by vertue of any ſuch Grants or Commiſſion, out of any her Maieſties Courts of Record whatſoeuer.</p>
+            <p>And further her Maieſtie commandeth, that no Commiſſions or Commiſſioner, or other perſon whatſoeuer, already authorized to execute any ſuch Grant or Commiſſion, ſhal from henceforth deale or proceed any further by inquiſition of Iurors, examination of witneſſes, or certificate, or by any other wayes or meanes whatſoeuer, to execute any the ſaid Grants or Commiſſions vpon paine of impri<g ref="char:EOLhyphen"/>ſonment, and incurring her Maieſties diſpleaſure. And her Highnes doeth further ſtraightly pro<g ref="char:EOLhyphen"/>hibite and forbid all her Iuſtices of the Peace, Maiors, Sheriffs, Conſtables, Bailiffs of Liberties, and other her Officers and miniſters whatſoeuer, as they tender the auoyding of her Highnes diſ<g ref="char:EOLhyphen"/>pleaſure, from henceforth to be in any wiſe aiding or aſſiſting to the execution of any the ſaid Statutes or Commiſſions. And for the better execution of the Premiſſes, if any perſon or perſons contrary to her Maieſties Proclamation and Prohibition, ſhall preſume or execute any the ſaid Grants or Com<g ref="char:EOLhyphen"/>miſſions, or to be in any wiſe ayding or aſſiſting thereunto: Then her Highnes will and expreſſe com<g ref="char:EOLhyphen"/>mandement is to all Iuſtices of the Peace, Maiors, Sheriffes, Bailiffes, and all other her Officers and miniſters whatſoeuer, to whom it ſhall or may appertaine, to attach and apprehend all and euery ſuch Offendour and Offendours, and them to commit to the common Gaole of the countrey where ſuch offences ſhalbe committed, there to remaine without Baile or Mainepriſe, vntill her Highneſſe pleaſure ſhall by her Honourable Priuie Counſell, or otherwiſe be ſignified what ſhalbe further done in that behalfe.</p>
+            <p>Prouided neuertheleſſe, That where by meanes of the ſaid Grants diuers Suits are already com<g ref="char:EOLhyphen"/>menced by the parties, and ſome of them depending in ſundry her Maieſties Courts by way of Infor<g ref="char:EOLhyphen"/>mation or otherwiſe, at the charge of the ſaid Patentees, her Highneſſe alſo minding to put the ſame Suits to ſome good end, with the reaſonable contentation of her Subiects, doth by vertue hereof au<g ref="char:EOLhyphen"/>thorize the Lord Chancellour of England, the Lord Treaſourer of England, the Chancellour of her Court of Exchequer, and the Barons of the ſame Court, or two of them, whereof the Lord Chancel<g ref="char:EOLhyphen"/>lour to be one, for all cauſes determinable in the Chancery, and the Lord Treaſourer one for all cauſes determinable in the Exchequer, to heare, order, end, or compound all the ſaid cauſes as ſhall ſtand with equitie to the quiet of the parties moleſted, and the reaſonable ſatiſfaction of the Patentees aforeſaid, ratifying and allowing whatſoeuer the ſaid Lord Chancellour, Lord Treaſourer, Chancellour and Barons as aboue is limitted, ſhall doe or conclude touching the Premiſſes.</p>
+            <closer>
+               <dateline>Giuen at our Mannor of Greenwich <date>the xv. of December, the two and twentieth yeere of our Reigne. Anno 1579.</date>
+               </dateline>
+               <lb/>
+God ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Chriſtopher Barker, Printer to the Queenes moſt Excellent Maieſtie.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
